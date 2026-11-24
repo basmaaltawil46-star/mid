@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Mid_Exam_BasmsAltaweel"
+        parent="Theme.Material3.DayNight">
+
+    </style>
+
+    <style name="Theme.Mid_Exam_BasmsAltaweel"
+        parent="Base.Theme.Mid_Exam_BasmsAltaweel" />
+
+</resources>
